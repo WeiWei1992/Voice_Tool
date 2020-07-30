@@ -1,0 +1,967 @@
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.000878][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:44:50.001
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.001309][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:44:50.002
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.001494][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:44:50.002
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.001702][mDNSPlatformWriteLogMsg:175][request_callback: 113:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:44:50.002
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:44:50.001960][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:44:50.003
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:44:50.003260][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:44:50.004
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:44:50.003475][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:44:50.004
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:44:50.003682][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:44:50.004
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.004138][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:44:50.004
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.004344][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:44:50.005
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.004525][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:44:50.005
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.004705][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:44:50.005
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.004885][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:44:50.005
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.005068][mDNSPlatformWriteLogMsg:175][request_callback: 113:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:44:50.005
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:44:50.005322][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:44:50.246
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:44:50.245453][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:44:50.246
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:44:50.245829][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:44:50.246
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:44:50.246045][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:44:50.250
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.249606][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:44:50.250
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.250010][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:44:50.250
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.250212][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:44:50.251
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.250456][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:44:50.251
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.250642][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:44:50.251
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.250858][mDNSPlatformWriteLogMsg:175][request_callback: 113:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:44:50.252
+
+ /uaibot(  446:548421673440) DEBUG  [app][dispatchDelayedMessages] m_telegrams 0 size is 2
+
+2020- 5-20 14:44:50.252
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:44:50.252265][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:44:50.253
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:44:50.252723][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:44:50.253
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:44:50.252916][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:44:50.253
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:44:50.253130][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:44:50.257
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.256236][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:44:50.257
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.256670][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:44:50.257
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.256865][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:44:50.257
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.257120][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:44:50.257
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.257361][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:44:50.258
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:44:50.257553][mDNSPlatformWriteLogMsg:175][request_callback: 114:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:44:50.258
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:44:50.258075][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:44:50.872
+
+ /uaibot(  446:546524824032) DEBUG  [sdk][onPlay] dequeue a element
+
+2020- 5-20 14:44:50.872
+
+ /uaibot(  446:546524824032) DEBUG  [app][stop] audio output stop enter.
+
+2020- 5-20 14:44:50.872
+
+ /uaibot(  446:546559857120) DEBUG  [sdk][onTts] syn wait 2 leave,status=3.
+
+2020- 5-20 14:44:50.872
+
+ /uaibot(  446:546524824032) DEBUG  [app][stop] mtk player write EOS 1.
+
+2020- 5-20 14:44:50.873
+
+ /uaibot(  446:546559857120) DEBUG  [sdk][onTts] syn loop
+
+2020- 5-20 14:44:50.873
+
+ /uaibot(  446:546559857120) DEBUG  [sdk][onTts] syn wait 2 in, status=3.
+
+2020- 5-20 14:44:50.873
+
+ /uaibot(  446:546524824032) DEBUG  [app][stop] mtk player write EOS 2.
+
+2020- 5-20 14:44:51.252
+
+ /uaibot(  446:548421673440) DEBUG  [app][dispatchDelayedMessages] m_telegrams 0 size is 2
+
+2020- 5-20 14:44:51.442
+
+ /uaibot(  446:548463616480) DEBUG  [sdk][Nodelite][SendAlive] Send(104) alive len:36,  type:node, key:hood1.1
+
+2020- 5-20 14:44:51.442
+
+ /uaibot(  446:546591445472) DEBUG  [sdk][Nodelite][OnDiscovery] Recieve alive data: uai-device:10.10.10.101-node-hood1.1
+
+2020- 5-20 14:44:52.086
+
+ /uaibot(  446:546558808544) DEBUG  [app][onPlayerEvent] mtk player event msg: 2
+
+2020- 5-20 14:44:52.086
+
+ /uaibot(  446:546558808544) DEBUG  [app][releaseHandle] release mtk player handle with delay 0 ms.
+
+2020- 5-20 14:44:52.087
+
+ /uaibot(  446:546524824032) DEBUG  [app][stop] mtk player stopped.
+
+2020- 5-20 14:44:52.105
+
+ /uaibot(  446:546524824032) DEBUG  [app][stop] audio output stop leave.
+
+2020- 5-20 14:44:52.105
+
+ /uaibot(  446:546524824032) DEBUG  [sdk][onPlay] output stop
+
+2020- 5-20 14:44:52.105
+
+ /uaibot(  446:546524824032) DEBUG  [sdk][setEvent] tts event 3 to 6
+
+2020- 5-20 14:44:52.106
+
+ /uaibot(  446:546524824032) DEBUG  [app][onEvent] <tts> onEvent evt: 6, param: 0
+
+2020- 5-20 14:44:52.106
+
+ /uaibot(  446:546524824032) DEBUG  [app][onEvent] send close tts led.
+
+2020- 5-20 14:44:52.106
+
+ /uaibot(  446:546524824032) DEBUG  [app][HandleMessage] enqueue led msg: 21, index: 41,in=0,isResumeBindDeviceFlag=0,isResumeGeekFlag=0
+
+2020- 5-20 14:44:52.106
+
+ /uaibot(  446:546524824032) DEBUG  [app][notify] TtsEntity::notify : notify type=1,list size=0 
+
+2020- 5-20 14:44:52.106
+
+ /uaibot(  446:546524824032) DEBUG  [app][onEvent] tts check bplayer:0 , wakeup trigger status 0 , muted 0
+
+2020- 5-20 14:44:52.106
+
+ /uaibot(  446:546524824032) DEBUG  [app][onEvent] bplayer1:0
+
+2020- 5-20 14:44:52.106
+
+ /uaibot(  446:546524824032) DEBUG  [app][onEvent] resume_ is :1
+
+2020- 5-20 14:44:52.106
+
+ /uaibot(  446:546524824032) DEBUG  [app][onEvent] resume  box music
+
+2020- 5-20 14:44:52.106
+
+ /uaibot(  446:546524824032) DEBUG  [app][dispatchMsg] dispatch msg id: 125, name:msg_resume_media, delay:0s, sender:Tts, receiver:MediaPlayer
+
+2020- 5-20 14:44:52.107
+
+ /uaibot(  446:548415619552) DEBUG  [app][dispatchLoop] handle msg id: 125
+
+2020- 5-20 14:44:52.107
+
+ /uaibot(  446:548415619552) DEBUG  [app][handleMessage] <media> handle msg: msg_resume_media, id: 125
+
+2020- 5-20 14:44:52.107
+
+ /uaibot(  446:548415619552) DEBUG  [app][handleMessage] get bPlayerStatus_ 0 , sender 4
+
+2020- 5-20 14:44:52.107
+
+ /uaibot(  446:548415619552) DEBUG  [app][dispatchLoop] handle msg id: 125 over
+
+2020- 5-20 14:44:52.107
+
+ /uaibot(  446:546524824032) DEBUG  [app][onEvent] <tts> === m_mediaInfo->stop=0
+
+2020- 5-20 14:44:52.107
+
+ /uaibot(  446:546524824032) DEBUG  [app][onEvent] resume  bluetooth music
+
+2020- 5-20 14:44:52.107
+
+ /uaibot(  446:546524824032) DEBUG  [app][dispatchMsg] dispatch msg id: 126, name:msg_bluetooth_player_resume, delay:0s, sender:Tts, receiver:Bluetooth
+
+2020- 5-20 14:44:52.107
+
+ /uaibot(  446:548415619552) DEBUG  [app][dispatchLoop] handle msg id: 126
+
+2020- 5-20 14:44:52.108
+
+ /uaibot(  446:548415619552) DEBUG  [app][handleMessage] recv resume bluetooth player!
+
+2020- 5-20 14:44:52.108
+
+ /uaibot(  446:548415619552) DEBUG  [app][dispatchLoop] handle msg id: 126 over
+
+2020- 5-20 14:44:52.108
+
+ /uaibot(  446:546524824032) DEBUG  [app][dispatchMsg] dispatch msg id: 127, name:msg_start_media, delay:0s, sender:Tts, receiver:MediaPlayer
+
+2020- 5-20 14:44:52.108
+
+ /uaibot(  446:548415619552) DEBUG  [app][dispatchLoop] handle msg id: 127
+
+2020- 5-20 14:44:52.108
+
+ /uaibot(  446:548415619552) DEBUG  [app][handleMessage] <media> handle msg: msg_start_media, id: 127
+
+2020- 5-20 14:44:52.108
+
+ /uaibot(  446:548415619552) DEBUG  [app][handleMessage] asr_=0, player=0 , url=,tip=/ù好的，帮你订好了明天上午8点的闹钟, shortTip=0,shortUrl=0, musicResume 1, loop=0, 2th=0, 1th=0, isdialog=0, alarm=0
+
+2020- 5-20 14:44:52.108
+
+ /uaibot(  446:548415619552) DEBUG  [app][handleMessage] url: 
+
+2020- 5-20 14:44:52.108
+
+ /uaibot(  446:548415619552) DEBUG  [app][dispatchLoop] handle msg id: 127 over
+
+2020- 5-20 14:44:52.109
+
+ /uaibot(  446:546524824032) DEBUG  [app][dispatchMsg] dispatch msg id: 128, name:msg_report_2thpush_msg, delay:0s, sender:Tts, receiver:Push
+
+2020- 5-20 14:44:52.109
+
+ /uaibot(  446:548467810784) DEBUG  [app][handleMsg] handle led msg: 21, index: 41
+
+2020- 5-20 14:44:52.109
+
+ /uaibot(  446:548415619552) DEBUG  [app][dispatchLoop] handle msg id: 128
+
+2020- 5-20 14:44:52.109
+
+ /uaibot(  446:548415619552) DEBUG  [app][handleMessage] [2th_push_msg]  recv UAIBOT_MSG_REPORT_2thPUSH_MSG, msg size is:0, bRecv2thReminder=0, bRetryFlag=0
+
+2020- 5-20 14:44:52.109
+
+ /uaibot(  446:548415619552) DEBUG  [app][handleMessage] [2th_push_msg] there is no new 2th_reminder msg and not retry flag, do not need to report!
+
+2020- 5-20 14:44:52.110
+
+ /uaibot(  446:548415619552) ERROR  [app][dispatchLoop] fail to msg id: 128, msg: msg_report_2thpush_msg, sender: Tts, receiver: Push
+
+2020- 5-20 14:44:52.110
+
+ /uaibot(  446:548415619552) DEBUG  [app][dispatchLoop] handle msg id: 128 over
+
+2020- 5-20 14:44:52.110
+
+ /uaibot(  446:546524824032) DEBUG  [sdk][setEvent] leave
+
+2020- 5-20 14:44:52.110
+
+ /uaibot(  446:546524824032) DEBUG  [sdk][setEvent] tts event 6 to 1
+
+2020- 5-20 14:44:52.110
+
+ /uaibot(  446:546524824032) DEBUG  [app][onEvent] <tts> onEvent evt: 1, param: 0
+
+2020- 5-20 14:44:52.110
+
+ /uaibot(  446:546524824032) DEBUG  [sdk][setEvent] leave
+
+2020- 5-20 14:44:52.110
+
+ /uaibot(  446:546559857120) DEBUG  [sdk][onTts] syn wait 2 leave,status=1.
+
+2020- 5-20 14:44:52.110
+
+ /uaibot(  446:546559857120) DEBUG  [sdk][onTts] syn loop
+
+2020- 5-20 14:44:52.111
+
+ /uaibot(  446:546559857120) DEBUG  [sdk][onTts] syn wait 1 in,status=1
+
+2020- 5-20 14:44:52.111
+
+ /uaibot(  446:546524824032) DEBUG  [sdk][onPlay] play wait 1 in,state=1
+
+2020- 5-20 14:44:52.253
+
+ /uaibot(  446:548421673440) DEBUG  [app][dispatchDelayedMessages] m_telegrams 0 size is 2
+
+2020- 5-20 14:44:53.253
+
+ /uaibot(  446:548421673440) DEBUG  [app][dispatchDelayedMessages] m_telegrams 0 size is 2
+
+2020- 5-20 14:44:53.332
+
+ /uaibot(  446:546586071520) DEBUG  [CAE][I][2020-05-20 14:44:53.332133][cae_sock_show_my_ip_port:1189][fd 108, my ip 10.10.10.101 port 41330]
+
+2020- 5-20 14:44:53.444
+
+ /uaibot(  446:548463616480) DEBUG  [sdk][Nodelite][SendAlive] Send(104) alive len:36,  type:node, key:hood1.1
+
+2020- 5-20 14:44:53.445
+
+ /uaibot(  446:546591445472) DEBUG  [sdk][Nodelite][OnDiscovery] Recieve alive data: uai-device:10.10.10.101-node-hood1.1
+
+2020- 5-20 14:44:53.873
+
+ /uaibot(  446:548468035664) DEBUG  [app][main] count: 121,
+
+2020- 5-20 14:44:54.253
+
+ /uaibot(  446:548421673440) DEBUG  [app][dispatchDelayedMessages] m_telegrams 0 size is 2
+
+2020- 5-20 14:44:55.254
+
+ /uaibot(  446:548421673440) DEBUG  [app][dispatchDelayedMessages] m_telegrams 0 size is 2
+
+2020- 5-20 14:44:55.445
+
+ /uaibot(  446:548463616480) DEBUG  [sdk][Nodelite][SendAlive] Send(104) alive len:36,  type:node, key:hood1.1
+
+2020- 5-20 14:44:55.446
+
+ /uaibot(  446:546591445472) DEBUG  [sdk][Nodelite][OnDiscovery] Recieve alive data: uai-device:10.10.10.101-node-hood1.1
+
+2020- 5-20 14:44:56.254
+
+ /uaibot(  446:548421673440) DEBUG  [app][dispatchDelayedMessages] m_telegrams 0 size is 2
+
+2020- 5-20 14:44:57.255
+
+ /uaibot(  446:548421673440) DEBUG  [app][dispatchDelayedMessages] m_telegrams 0 size is 2
+
+2020- 5-20 14:44:57.446
+
+ /uaibot(  446:548463616480) DEBUG  [sdk][Nodelite][SendAlive] Send(104) alive len:36,  type:node, key:hood1.1
+
+2020- 5-20 14:44:57.447
+
+ /uaibot(  446:546591445472) DEBUG  [sdk][Nodelite][OnDiscovery] Recieve alive data: uai-device:10.10.10.101-node-hood1.1
+
+2020- 5-20 14:44:58.255
+
+ /uaibot(  446:548421673440) DEBUG  [app][dispatchDelayedMessages] m_telegrams 0 size is 2
+
+2020- 5-20 14:44:59.256
+
+ /uaibot(  446:548421673440) DEBUG  [app][dispatchDelayedMessages] m_telegrams 0 size is 2
+
+2020- 5-20 14:44:59.336
+
+ /uaibot(  446:546586071520) DEBUG  [CAE][I][2020-05-20 14:44:59.336122][cae_mqtt_client_publish_0:586][send pub topic: Dev/C86314200069/HeartBeat]
+
+2020- 5-20 14:44:59.402
+
+ /uaibot(  446:546586071520) DEBUG  [USS][I][1214401][uss_acd_mqtt_parse_dev_biz_topic:324]get pub(0) topic: Dev/C86314200069/HeartBeatAck
+
+2020- 5-20 14:44:59.402
+
+ /uaibot(  446:546586071520) DEBUG  [CAE][I][2020-05-20 14:44:59.401867][cae_cd_parse_recv_pub:538][get pub(0) topic: Dev/C86314200069/HeartBeatAck]
+
+2020- 5-20 14:44:59.402
+
+ /uaibot(  446:546586071520) DEBUG  [CAE][I][2020-05-20 14:44:59.402056][cae_cd_priv_recv_pub_cb:884][payload [0x51]: {"sn":"26"}]
+
+2020- 5-20 14:44:59.402
+
+ /uaibot(  446:546586071520) DEBUG  [CAE][I][2020-05-20 14:44:59.402256][cae_cd_priv_handle_heart_ack:187][heart ack -883259486 sn 26 last -883259552 sn 26 ]
+
+2020- 5-20 14:44:59.448
+
+ /uaibot(  446:548463616480) DEBUG  [sdk][Nodelite][SendAlive] Send(104) alive len:36,  type:node, key:hood1.1
+
+2020- 5-20 14:44:59.449
+
+ /uaibot(  446:546591445472) DEBUG  [sdk][Nodelite][OnDiscovery] Recieve alive data: uai-device:10.10.10.101-node-hood1.1
+
+2020- 5-20 14:45:00.137
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.136329][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:45:00.137
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.136678][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:45:00.137
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.136899][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:45:00.138
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.137416][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:45:00.138
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.137669][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:45:00.138
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.137895][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:45:00.138
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.138081][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:45:00.138
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.138302][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:45:00.139
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.138500][mDNSPlatformWriteLogMsg:175][request_callback: 110:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:45:00.139
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.138849][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:45:00.139
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.139302][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:45:00.140
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.139514][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:45:00.140
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.139728][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:45:00.141
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.140414][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:45:00.141
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.140659][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:45:00.141
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.140847][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:45:00.141
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.141031][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:45:00.141
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.141288][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:45:00.142
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.141478][mDNSPlatformWriteLogMsg:175][request_callback: 110:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:45:00.142
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.142003][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:45:00.142
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.142375][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:45:00.143
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.142576][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:45:00.143
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.142792][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:45:00.146
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.145827][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:45:00.147
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.146544][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:45:00.147
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.146747][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:45:00.147
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.146935][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:45:00.147
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.147121][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:45:00.147
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.147313][mDNSPlatformWriteLogMsg:175][request_callback: 112:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:45:00.148
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.147810][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:45:00.148
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.148247][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:45:00.149
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.148438][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:45:00.149
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.148663][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:45:00.150
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.150023][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:45:00.150
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.150371][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:45:00.151
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.150562][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:45:00.151
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.150749][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:45:00.151
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.150934][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:45:00.151
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.151130][mDNSPlatformWriteLogMsg:175][request_callback: 110:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:45:00.152
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.151496][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:45:00.152
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.151869][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:45:00.152
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.152187][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:45:00.153
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.152409][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:45:00.153
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.153160][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:45:00.154
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.153418][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:45:00.154
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.153603][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:45:00.154
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.153794][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:45:00.154
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.153977][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:45:00.154
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.154166][mDNSPlatformWriteLogMsg:175][request_callback: 112:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:45:00.155
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.154491][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:45:00.155
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.154807][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:45:00.155
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.154991][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:45:00.155
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.155262][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:45:00.156
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.156108][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:45:00.157
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.156402][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:45:00.157
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.156662][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:45:00.157
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.156849][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:45:00.157
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.157032][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:45:00.157
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.157224][mDNSPlatformWriteLogMsg:175][request_callback: 110:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:45:00.158
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.157626][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:45:00.158
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.158053][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:45:00.158
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.158280][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:45:00.159
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.158505][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:45:00.160
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.159539][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:45:00.160
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.159822][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:45:00.160
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.160166][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:45:00.160
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.160355][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:45:00.161
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.160543][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:45:00.161
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.160735][mDNSPlatformWriteLogMsg:175][request_callback: 110:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:45:00.161
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.161103][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:45:00.162
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.161438][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:45:00.162
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.161757][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:45:00.162
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.161971][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:45:00.163
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.162719][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:45:00.163
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.162984][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:45:00.165
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.165293][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:45:00.166
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.165616][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:45:00.166
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.165823][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:45:00.166
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.166058][mDNSPlatformWriteLogMsg:175][request_callback: 110:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:45:00.167
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.166452][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:45:00.167
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.166882][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:45:00.167
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.167080][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:45:00.167
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.167298][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:45:00.168
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.168155][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:45:00.169
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.168410][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:45:00.169
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.168602][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:45:00.169
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.168792][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:45:00.169
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.169044][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:45:00.169
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.169237][mDNSPlatformWriteLogMsg:175][request_callback: 110:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:45:00.170
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.169577][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:45:00.236
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.235342][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:45:00.236
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.235773][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:45:00.236
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.236071][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:45:00.237
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.236846][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:45:00.237
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.237166][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:45:00.237
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.237352][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:45:00.238
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.237539][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:45:00.238
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.237720][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:45:00.238
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.237948][mDNSPlatformWriteLogMsg:175][request_callback: 110:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:45:00.239
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.238422][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:45:00.247
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.246829][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:45:00.247
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.247251][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:45:00.248
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.247530][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:45:00.248
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.248314][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:45:00.249
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.248629][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:45:00.249
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.248843][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:45:00.249
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.249090][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:45:00.249
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.249278][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:45:00.250
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.249468][mDNSPlatformWriteLogMsg:175][request_callback: 110:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:45:00.250
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.249848][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:45:00.253
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.253131][cae_sr_k_loop:1061][do normal soft refresh timing!]
+
+2020- 5-20 14:45:00.254
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.253490][cae_sd_core_connect_send_search_data:116][force mdns daemon to send mdns search udp data ... ...]
+
+2020- 5-20 14:45:00.254
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.253709][mDNSPlatformWriteLogMsg:175][connecting mdns server port:39648.]
+
+2020- 5-20 14:45:00.254
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.254343][mDNSPlatformWriteLogMsg:175][receive x_RefreshInterfaceList cmd ]
+
+2020- 5-20 14:45:00.255
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.254578][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list ... ...]
+
+2020- 5-20 14:45:00.255
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.254767][mDNSPlatformWriteLogMsg:175][StartLLQPolling ... ... ]
+
+2020- 5-20 14:45:00.255
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.254954][mDNSPlatformWriteLogMsg:175][ xxx mDNS Execute begin ... ... ]
+
+2020- 5-20 14:45:00.255
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.255139][mDNSPlatformWriteLogMsg:175][mdns daemon refreshing interface list end!]
+
+2020- 5-20 14:45:00.255
+
+ /uaibot(  446:547742544352) DEBUG  [CAE][I][2020-05-20 14:45:00.255387][mDNSPlatformWriteLogMsg:175][request_callback: 110:ERROR: Unsupported UDS req:8888 PID[-1][]]
+
+2020- 5-20 14:45:00.256
+
+ /uaibot(  446:548421673440) DEBUG  [app][dispatchDelayedMessages] m_telegrams 0 size is 2
+
+2020- 5-20 14:45:00.256
+
+ /uaibot(  446:547717378528) DEBUG  [CAE][I][2020-05-20 14:45:00.255747][cae_sd_core_connect_send_search_data:126][sending mdns search upd data is end; err:0]
+
+2020- 5-20 14:45:01.256
+
+ /uaibot(  446:548421673440) DEBUG  [app][dispatchDelayedMessages] m_telegrams 0 size is 2
+
+2020- 5-20 14:45:01.449
+
+ /uaibot(  446:548463616480) DEBUG  [sdk][Nodelite][SendAlive] Send(104) alive len:36,  type:node, key:hood1.1
+
+2020- 5-20 14:45:01.449
+
+ /uaibot(  446:546591445472) DEBUG  [sdk][Nodelite][OnDiscovery] Recieve alive data: uai-device:10.10.10.101-node-hood1.1
+
+2020- 5-20 14:45:02.257
+
+ /uaibot(  446:548421673440) DEBUG  [app][dispatchDelayedMessages] m_telegrams 0 size is 2
+
+2020- 5-20 14:45:03.257
+
+ /uaibot(  446:548421673440) DEBUG  [app][dispatchDelayedMessages] m_telegrams 0 size is 2
+
+2020- 5-20 14:45:03.450
+
+ /uaibot(  446:546591445472) DEBUG  [sdk][Nodelite][OnDiscovery] Recieve alive data: uai-device:10.10.10.101-node-hood1.1
+
+2020- 
